@@ -2,6 +2,7 @@
 
 # Compile example using g++:
 g++ server.cpp -o server
+
 g++ client.cpp -o client
 
 # To run client write:
